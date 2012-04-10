@@ -1,0 +1,35 @@
+body {
+	background-color: green;
+}
+.one {
+	font-size: 50px;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+	border-style: groove;
+}
+.two {
+	font-size: 50px;
+	position: absolute;
+	border-style: solid;
+	left: 50px;
+	top: 115px;
+}
+.three {
+	font-size: 24px;
+	position: absolute;
+	left: 300px;
+	top: 64px;
+	margin-right: 50px;
+	border-style: dotted;
+	padding: 5px;
+}
+.four {
+	position: absolute;
+	bottom: 130px;
+	text-align: center;
+}
+.five {
+	display: none;
+	visibility: hidden;
+}

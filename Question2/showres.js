@@ -1,0 +1,2 @@
+document.write('<div style="position: absolute; bottom: 0px; right: 0px;">Browser: ' + window.innerWidth + ', ' + window.innerHeight + '</div>');
+document.write('<div style="position: absolute; bottom: 0px; right: 140px;">Resolution: ' + screen.width + ', ' + screen.height + '</div>');

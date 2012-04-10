@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+}
+.one {
+	display: none;
+	visibility: hidden;
+}
+.two {
+	display: none;
+	visibility: hidden;
+}
+.three {
+	display: none;
+	visibility: hidden;
+}
+.four {
+	display: none;
+	visibility: hidden;
+}
+.five {
+	font-size: 1.2em;
+}
